@@ -10,6 +10,6 @@ A devops engineer from china. use golang developing.
 - 💬 Ask me about anything
 - 📫 How to reach me: zcc0388@gmail.com
 
-![CC Github Stats](https://github-readme-stats.vercel.app/api?username=cctrip&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![CC Github Stats](https://github-readme-stats.vercel.app/api?username=cctrip&show_icons=true&show_icons=true&hide_border=true)
 
 <br />
