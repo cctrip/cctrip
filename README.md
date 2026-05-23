@@ -1,15 +1,24 @@
-### Hi I'm CC. 👋
+### Hi I'm Calvin Zhou (CC). 👋
 
-A devops engineer from china. use golang developing.
+A **Site Reliability & Agentic DevOps Engineer** based in China. Dedicated to engineering robust infrastructure, high-availability workflows, and building autonomous automation systems using **Golang** and **AI Agents**.
 
-**something about me:**
+---
 
-- 🔭 I’m currently working on miHoYo
-- 🌱 I’m currently learning cloud native
-- 🤔 coming soon...
-- 💬 Ask me about anything
-- 📫 How to reach me: zcc0388@gmail.com
+### 🔭 Something About Me
 
-![CC Github Stats](https://github-readme-stats.vercel.app/api?username=cctrip&show_icons=true&show_icons=true&hide_border=true)
+- 🏢 **Current Status:** SRE / DevOps Specialist navigating high-concurrency and strict production environments.
+- 🚀 **Current Focus:** Elevating DevOps into **Agentic DevOps** — leveraging **Model Context Protocol (MCP)** and LLM workflows to automate the lifecycle of infrastructure.
+- 🌱 **Deep Diving:** Linux kernel tuning, advanced cloud-native architectures, and deterministic system scaling.
+- 💬 **Ask Me About:** SRE operation specs, GitLab CI/CD pipelines, automated asset systems, or why `AIOps` is outdated compared to Agents.
+- 📫 **How to Reach Me:** [zcc0388@gmail.com](mailto:zcc0388@gmail.com)
 
-<br />
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+```text
+       [ Development ] ──► Golang / Shell Scripting
+              │
+       [ Infrastructure] ──► Linux Tuning / Cloud Native / CI/CD Specs
+              │
+       [ Agentic Ops ] ──► LLM Agents / MCP / Automated Workflows
