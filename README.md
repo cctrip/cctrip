@@ -10,8 +10,9 @@ An **SRE & Agentic DevOps Architect** dedicated to building deterministic infras
 ### 💻 System Overview
 
 - 🏢 **Production:** Navigating and stabilizing high-concurrency environments at **miHoYo**.
-- 🚀 **Core Shift:** Moving past traditional AIOps to pioneer **Agentic DevOps** — leveraging **Model Context Protocol (MCP)** and LLM workflows to orchestrate infrastructure.
-- ⚓ **Philosophy:** In the AI era, programming languages are merely compile targets. System architecture and operational determinism are the ultimate moats.
+- 🚀 **Core Shift:** Deep diving into **Agentic DevOps** and **MCP** — making programming languages mere compile targets.
+- 📈 **Wealth Architecture:** Designing deterministic, dividend low-volatility asset models for long-term compounding.
+- 💬 **Talk to Me About:** SRE operation specs, automated workflow pipelines, or asset allocation models.
 - 📫 **Reach Me:** [zcc0388@gmail.com](mailto:zcc0388@gmail.com)
 
 ---
